@@ -59,3 +59,7 @@ Qt6_ModbusDebugger/
 ## License
 
 本项目仅用于学习和求职展示。
+
+## 界面截图
+
+![调试助手](images/screenshot_debugger.png)
